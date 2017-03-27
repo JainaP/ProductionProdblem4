@@ -1,0 +1,48 @@
+body{
+	background-image:url("http://vignette1.wikia.nocookie.net/thdf/images/9/90/Space-the-sky-the-galaxy-stars-Favim.com-481975.jpg/revision/latest?cb=20140614183812");
+	width:100%;
+	height:100%;
+}
+
+table {
+	width:90%;
+	height:90%;
+	margin: 0 auto;
+	border:1px solid #F2ECEC;
+	border-collapse:collapse;
+	border-spacing:2px;
+	padding:5px;
+}
+
+caption {
+	text-align:center;
+	color:#4D5675;
+	font-weight:bold;
+	font-size:7em;
+}
+
+th {
+	border:1px solid #F2ECEC;
+	padding:5px;
+	background-color:#4D5675;
+	color:white;
+}
+
+td {
+	border:1px solid #F2ECEC;
+	text-align:center;
+	padding:2px;
+}
+
+tr:nth-child(odd){background-color: #AA938D}
+
+tr:hover {background-color: #5F6C8F;}
+
+tr{
+	background-color:#9F8D8D;
+}
+
+footer {
+	color:white;
+}
+
